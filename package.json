@@ -1,0 +1,12 @@
+{
+  "name": "sistemadwmueblesapi",
+  "version": "1.0.0",
+  "main": "servidor.js",
+  "scripts": {
+    "dev": "node --watch servidor.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
