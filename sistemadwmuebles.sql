@@ -45,7 +45,8 @@ CREATE TABLE `usuarios` (
 INSERT INTO `usuarios` (`idUsuario`, `documento`, `nombres`, `telefono`, `correo`, `contrasena`, `rol`, `estado`) VALUES
 (1, '12345678', 'pepito perez perez', '3002222222', 'pepito@gmail.com', '12345', 'Cliente', 'Activo'),
 (2, '12345679', 'fulanito mazo mazo', '3002222221', 'fulanito@gmail.com', '12345', 'Cliente', 'Activo'),
-(3, '12345677', 'Juanita Perez Mazo', '3002222223', 'juanita@gmail.com', '12345678', 'Cliente', 'Activo');
+(3, '12345677', 'Juanita Perez Mazo', '3002222223', 'juanita@gmail.com', '12345678', 'Cliente', 'Activo'),
+(4, '12345676', 'Ana Perez Mazo', '3002222224', 'ana@gmail.com', '12345678', 'Cliente', 'Activo');
 
 --
 -- Índices para tablas volcadas
